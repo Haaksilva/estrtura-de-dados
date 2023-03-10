@@ -4,7 +4,6 @@ import javax.lang.model.element.VariableElement;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
         var produto1 = new Produto(
             "X BOX 360",
             new BigDecimal(5.000)
